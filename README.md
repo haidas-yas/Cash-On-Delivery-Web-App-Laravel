@@ -9,11 +9,12 @@
 
 ### Cash On delivery Web App
 
-Here is A [Demo](http://yassine.lums.ma/)
+![Sc3een](https://user-images.githubusercontent.com/36742711/123874726-72372f00-d8ed-11eb-88d9-cf1ed5b4d521.png)
 
+Here is A [Demo](http://yassine.lums.ma/)
 Login As Admin : <br>
-Email : admin@ad.com <br>
-Password : 12345678
+Email : ADMIN@ADMIN.COM <br>
+Password : 123456789
 
 
 ### Getting set up locally:
