@@ -9,7 +9,7 @@
 
 ### Cash On delivery Web App
 
-Here is A [Demo](https://cutt.ly/2molyn5)
+Here is A [Demo](http://yassine.lums.ma/)
 
 Login As Admin : <br>
 Email : admin@ad.com <br>
