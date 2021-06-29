@@ -9,8 +9,15 @@
 
 ### Cash On delivery Web App
 
+Here is A [Demo](https://cutt.ly/2molyn5)
+
+Login As Admin : <br>
+Email : admin@ad.com <br>
+Password : 12345678
+
+
 ### Getting set up locally:
 * Clone the repo
 * `cp .env.example .env`
-* `artisan key:generate`
+* `php artisan key:generate`
 * `composer install`
